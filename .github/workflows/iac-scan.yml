@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Run IaC scan
-        uses: notRamish/iac-scan-action
+        uses: notRamish/iac-scan-action@main
         with:
           directory: "."                            # Optional: Directory to scan
           compact: true                             # Optional: Minimise output
