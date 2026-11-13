@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """Normalize scanner output (Checkov, Trivy, Gitleaks, Prowler) into one
 findings report with compliance tags. Writes reports/summary.json and
-reports/SUMMARY.md. Run from repo root: python3 scripts/aggregate.py
-test: add comment"""
+reports/SUMMARY.md. Run from repo root: python3 scripts/aggregate.py"""
 
 import json
 import sys
