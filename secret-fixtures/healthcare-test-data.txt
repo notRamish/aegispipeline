@@ -1,0 +1,62 @@
+
+SYNTHETIC HEALTHCARE PATIENT RECORDS
+====================================
+
+NOTICE: All records below are fictional test data.
+
+PATIENT RECORD 001
+------------------
+Patient Name: Alex Morgan
+Email Address: alex.morgan@example.com
+Contact Phone: (415) 555-0137
+Patient ID: P123
+Health Insurance Policy: HP-12345
+Diagnosis: Hypertension
+Medical Record Number: MRN-1234
+
+PATIENT RECORD 002
+------------------
+Patient Name: Sarah Mitchell
+Email: sarah.mitchell@example.org
+Mobile Number: 1-(212) 555-0186
+Patient Identifier: P456
+Health Plan: HP-67890
+Medical Condition: Diabetes Type 2
+Medical Record: MRN-5678
+
+PATIENT RECORD 003
+------------------
+Patient Name: James Anderson
+Contact Email: james.anderson@example.net
+Telephone: 1-650-555-0199
+Patient Number: P789
+Insurance Coverage: HP-11223
+Diagnosis: Asthma
+Patient Chart Number: MRN-9012
+
+PATIENT RECORD 004
+------------------
+Patient Name: Emily Carter
+User Email: emily.carter@example.com
+Phone Number: (202) 555-0147
+Patient ID: P321
+Health Insurance: HP-44556
+Diagnosis: Hypertension
+Medical File: MRN-3456
+
+ADDITIONAL DETECTOR TEST CASES
+-------------------------------
+
+Email: test.patient@example.com
+Contact: (312) 555-0168
+Identifier: P654
+Policy Number: HP-98765
+Condition: Diabetes Type 1
+Record Number: MRN-7890
+
+Email: billing.test@example.org
+Telephone: 1-415-555-0112
+Patient ID: P987
+Insurance Policy: HP-54321
+Disease: Asthma
+Chart: MRN-2468
